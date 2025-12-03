@@ -1,0 +1,15 @@
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\bin\Debug\net8.0\TrabalhoAlgoritmos.exe
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\bin\Debug\net8.0\TrabalhoAlgoritmos.deps.json
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\bin\Debug\net8.0\TrabalhoAlgoritmos.runtimeconfig.json
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\bin\Debug\net8.0\TrabalhoAlgoritmos.dll
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\bin\Debug\net8.0\TrabalhoAlgoritmos.pdb
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.AssemblyInfo.cs
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.sourcelink.json
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.dll
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\refint\TrabalhoAlgoritmos.dll
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.pdb
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\TrabalhoAlgoritmos.genruntimeconfig.cache
+C:\Users\tgper\Desktop\AlgoritmoTrabalho\algoritmos-arvore-grafo\src\TrabalhoAlgoritmos\obj\Debug\net8.0\ref\TrabalhoAlgoritmos.dll
